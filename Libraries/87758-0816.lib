@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 87758-0816
+#
+DEF 87758-0816 X 0 40 N N 8 L N
+F0 "X" 100 -30 50 H V L BNN
+F1 "87758-0816" -30 55 50 H V L BNN
+F2 "87758-0816" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "87758-0816" 0 0 50 H I L BNN "MPN"
+F5 "7472331" 0 0 50 H I L BNN "OC_FARNELL"
+F6 "59J1556" 0 0 50 H I L BNN "OC_NEWARK"
+F7 "MOLEX" 0 0 50 H I L BNN "MF"
+DRAW
+P 2 1 0 24 50 0 0 0 N
+X ~ 1 -100 0 100 R 40 40 1 0 P 
+P 2 2 0 24 50 0 0 0 N
+X ~ 2 -100 0 100 R 40 40 2 0 P 
+P 2 3 0 24 50 0 0 0 N
+X ~ 3 -100 0 100 R 40 40 3 0 P 
+P 2 4 0 24 50 0 0 0 N
+X ~ 4 -100 0 100 R 40 40 4 0 P 
+P 2 5 0 24 50 0 0 0 N
+X ~ 5 -100 0 100 R 40 40 5 0 P 
+P 2 6 0 24 50 0 0 0 N
+X ~ 6 -100 0 100 R 40 40 6 0 P 
+P 2 7 0 24 50 0 0 0 N
+X ~ 7 -100 0 100 R 40 40 7 0 P 
+P 2 8 0 24 50 0 0 0 N
+X ~ 8 -100 0 100 R 40 40 8 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

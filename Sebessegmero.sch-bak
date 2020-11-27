@@ -19,8 +19,8 @@ U 1 1 5FB61F88
 P 2500 2900
 F 0 "R3" V 2293 2900 50  0000 C CNN
 F 1 "3k" V 2384 2900 50  0000 C CNN
-F 2 "" V 2430 2900 50  0001 C CNN
-F 3 "~" H 2500 2900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2430 2900 50  0001 C CNN
+F 3 "https://hu.farnell.com/vishay/crcw06033k00fkea/res-3k-1-0-1w-0603-thick-film/dp/1469790?st=resistor%200603%203%20kohm" H 2500 2900 50  0001 C CNN
 	1    2500 2900
 	0    1    1    0   
 $EndComp
@@ -30,8 +30,8 @@ U 1 1 5FB62118
 P 2500 3100
 F 0 "R5" V 2293 3100 50  0000 C CNN
 F 1 "130" V 2384 3100 50  0000 C CNN
-F 2 "" V 2430 3100 50  0001 C CNN
-F 3 "~" H 2500 3100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2430 3100 50  0001 C CNN
+F 3 "https://hu.farnell.com/multicomp/mcwr06x1300ftl/res-130r-1-0-1w-thick-film/dp/2447248?st=resistor%200603%20130%20ohm" H 2500 3100 50  0001 C CNN
 	1    2500 3100
 	0    -1   -1   0   
 $EndComp
@@ -71,7 +71,7 @@ U 1 1 5FB72023
 P 2800 2250
 F 0 "R6" H 2870 2296 50  0000 L CNN
 F 1 "24k" H 2870 2205 50  0000 L CNN
-F 2 "" V 2730 2250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2730 2250 50  0001 C CNN
 F 3 "https://hu.farnell.com/multicomp/mcwr06x2402ftl/res-24k-1-0-1w-thick-film/dp/2447308?st=resistor%200603%2024%20kohm" H 2800 2250 50  0001 C CNN
 	1    2800 2250
 	1    0    0    -1  
@@ -100,7 +100,7 @@ U 1 1 5FB79BEC
 P 4400 3300
 F 0 "R8" H 4470 3346 50  0000 L CNN
 F 1 "10k" H 4470 3255 50  0000 L CNN
-F 2 "" V 4330 3300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 4330 3300 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603" H 4400 3300 50  0001 C CNN
 	1    4400 3300
 	1    0    0    -1  
@@ -111,7 +111,7 @@ U 1 1 5FB79BF2
 P 4400 3800
 F 0 "R9" H 4470 3846 50  0000 L CNN
 F 1 "10k" H 4470 3755 50  0000 L CNN
-F 2 "" V 4330 3800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 4330 3800 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603" H 4400 3800 50  0001 C CNN
 	1    4400 3800
 	1    0    0    -1  
@@ -154,7 +154,7 @@ U 1 1 5FB861E4
 P 7200 3350
 F 0 "R10" H 7270 3396 50  0000 L CNN
 F 1 "2k" H 7270 3305 50  0000 L CNN
-F 2 "" V 7130 3350 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 7130 3350 50  0001 C CNN
 F 3 "https://hu.farnell.com/vishay/crcw06032k00fkea/res-2k-1-0-1w-0603-thick-film/dp/1469764?st=resistor%200603%202%20kohm" H 7200 3350 50  0001 C CNN
 	1    7200 3350
 	1    0    0    -1  
@@ -165,7 +165,7 @@ U 1 1 5FB861EA
 P 7200 3850
 F 0 "R11" H 7270 3896 50  0000 L CNN
 F 1 "1k" H 7270 3805 50  0000 L CNN
-F 2 "" V 7130 3850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 7130 3850 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-071kl/res-1k-1-0-1w-0603-thick-film/dp/3495238?st=resistor%200603" H 7200 3850 50  0001 C CNN
 	1    7200 3850
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5FB91E35
 P 6100 4950
 F 0 "R13" V 6307 4950 50  0000 C CNN
 F 1 "100" V 6216 4950 50  0000 C CNN
-F 2 "" V 6030 4950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 6030 4950 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-07100rl/res-100r-1-0-1w-0603-thick-film/dp/3495223?st=resistor%200603" H 6100 4950 50  0001 C CNN
 	1    6100 4950
 	0    -1   -1   0   
@@ -218,7 +218,7 @@ U 1 1 5FB92AD5
 P 5550 4950
 F 0 "R12" V 5757 4950 50  0000 C CNN
 F 1 "2,4k" V 5666 4950 50  0000 C CNN
-F 2 "" V 5480 4950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 5480 4950 50  0001 C CNN
 F 3 "https://hu.farnell.com/multicomp/mcwr06x2401ftl/res-2k4-1-0-1w-thick-film/dp/2447322?st=resistor%200603%202.4%20kohm" H 5550 4950 50  0001 C CNN
 	1    5550 4950
 	0    -1   -1   0   
@@ -229,7 +229,7 @@ U 1 1 5FB93625
 P 6500 4450
 F 0 "R14" H 6430 4404 50  0000 R CNN
 F 1 "24k" H 6430 4495 50  0000 R CNN
-F 2 "" V 6430 4450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 6430 4450 50  0001 C CNN
 F 3 "https://hu.farnell.com/multicomp/mcwr06x2402ftl/res-24k-1-0-1w-thick-film/dp/2447308?st=resistor%200603%2024%20kohm" H 6500 4450 50  0001 C CNN
 	1    6500 4450
 	-1   0    0    1   
@@ -242,7 +242,7 @@ U 1 1 5FB989D2
 P 5950 5400
 F 0 "R15" H 6020 5446 50  0000 L CNN
 F 1 "24k" H 6020 5355 50  0000 L CNN
-F 2 "" V 5880 5400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 5880 5400 50  0001 C CNN
 F 3 "https://hu.farnell.com/multicomp/mcwr06x2402ftl/res-24k-1-0-1w-thick-film/dp/2447308?st=resistor%200603%2024%20kohm" H 5950 5400 50  0001 C CNN
 	1    5950 5400
 	1    0    0    -1  
@@ -253,7 +253,7 @@ U 1 1 5FB99537
 P 7250 5800
 F 0 "R17" V 7043 5800 50  0000 C CNN
 F 1 "100" V 7134 5800 50  0000 C CNN
-F 2 "" V 7180 5800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 7180 5800 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-07100rl/res-100r-1-0-1w-0603-thick-film/dp/3495223?st=resistor%200603" H 7250 5800 50  0001 C CNN
 	1    7250 5800
 	0    1    1    0   
@@ -264,7 +264,7 @@ U 1 1 5FB9A203
 P 6750 5800
 F 0 "R16" V 6543 5800 50  0000 C CNN
 F 1 "2,4k" V 6634 5800 50  0000 C CNN
-F 2 "" V 6680 5800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 6680 5800 50  0001 C CNN
 F 3 "https://hu.farnell.com/multicomp/mcwr06x2401ftl/res-2k4-1-0-1w-thick-film/dp/2447322?st=resistor%200603%202.4%20kohm" H 6750 5800 50  0001 C CNN
 	1    6750 5800
 	0    -1   -1   0   
@@ -312,7 +312,7 @@ U 1 1 5FBC16E4
 P 8250 5050
 F 0 "R18" V 8043 5050 50  0000 C CNN
 F 1 "100k" V 8134 5050 50  0000 C CNN
-F 2 "" V 8180 5050 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 8180 5050 50  0001 C CNN
 F 3 "https://hu.farnell.com/vishay/crcw0603100kfkea/res-100k-1-0-1w-0603-thick-film/dp/1469649RL?st=resistor%200603%20100%20kohm" H 8250 5050 50  0001 C CNN
 	1    8250 5050
 	0    1    1    0   
@@ -323,7 +323,7 @@ U 1 1 5FBC508F
 P 9100 4300
 F 0 "R19" V 8893 4300 50  0000 C CNN
 F 1 "15k" V 8984 4300 50  0000 C CNN
-F 2 "" V 9030 4300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 9030 4300 50  0001 C CNN
 F 3 "https://hu.farnell.com/vishay/crcw060315k0fkea/res-15k-1-0-1w-0603-thick-film/dp/1469758?st=resistor%200603%2015%20kohm" H 9100 4300 50  0001 C CNN
 	1    9100 4300
 	0    1    1    0   
@@ -334,7 +334,7 @@ U 1 1 5FBC60DA
 P 9900 5150
 F 0 "R22" V 9693 5150 50  0000 C CNN
 F 1 "47" V 9784 5150 50  0000 C CNN
-F 2 "" V 9830 5150 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 9830 5150 50  0001 C CNN
 F 3 "https://hu.farnell.com/vishay/crcw060347r0fkeahp/res-47r-1-0-33w-0603-thick-film/dp/1738887?st=resistor%200603%2047%20ohm" H 9900 5150 50  0001 C CNN
 	1    9900 5150
 	0    1    1    0   
@@ -345,7 +345,7 @@ U 1 1 5FBC7352
 P 8500 5400
 F 0 "R20" H 8570 5446 50  0000 L CNN
 F 1 "10k" H 8570 5355 50  0000 L CNN
-F 2 "" V 8430 5400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 8430 5400 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603" H 8500 5400 50  0001 C CNN
 	1    8500 5400
 	-1   0    0    1   
@@ -356,7 +356,7 @@ U 1 1 5FBC9B78
 P 9400 5950
 F 0 "R21" V 9607 5950 50  0000 C CNN
 F 1 "15k" V 9516 5950 50  0000 C CNN
-F 2 "" V 9330 5950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 9330 5950 50  0001 C CNN
 F 3 "https://hu.farnell.com/vishay/crcw060315k0fkea/res-15k-1-0-1w-0603-thick-film/dp/1469758?st=resistor%200603%2015%20kohm" H 9400 5950 50  0001 C CNN
 	1    9400 5950
 	0    -1   -1   0   
@@ -540,7 +540,7 @@ U 1 1 5FB69FA0
 P 3200 3750
 F 0 "R7" V 2993 3750 50  0000 C CNN
 F 1 "10k" V 3084 3750 50  0000 C CNN
-F 2 "" V 3130 3750 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 3130 3750 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603" H 3200 3750 50  0001 C CNN
 	1    3200 3750
 	0    -1   -1   0   
@@ -565,7 +565,7 @@ U 1 1 5FB84510
 P 1750 3000
 F 0 "R1" V 1543 3000 50  0000 C CNN
 F 1 "10k" V 1634 3000 50  0000 C CNN
-F 2 "" V 1680 3000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 1680 3000 50  0001 C CNN
 F 3 "https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603" H 1750 3000 50  0001 C CNN
 	1    1750 3000
 	1    0    0    -1  
@@ -673,8 +673,8 @@ U 1 1 5FB58FDE
 P 1200 3000
 F 0 "C1" H 1292 3046 50  0000 L CNN
 F 1 "C" H 1292 2955 50  0000 L CNN
-F 2 "" H 1200 3000 50  0001 C CNN
-F 3 "~" H 1200 3000 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 1200 3000 50  0001 C CNN
+F 3 "https://hu.farnell.com/avx/1206yc106kat2a/cap-10-f-16v-10-x7r-1206/dp/1657943?st=capacitor%201206%2010" H 1200 3000 50  0001 C CNN
 	1    1200 3000
 	1    0    0    -1  
 $EndComp
@@ -762,8 +762,8 @@ U 1 1 5FC2DE4B
 P 2150 3100
 F 0 "R4" V 1943 3100 50  0000 C CNN
 F 1 "9,1k" V 2034 3100 50  0000 C CNN
-F 2 "" V 2080 3100 50  0001 C CNN
-F 3 "~" H 2150 3100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2080 3100 50  0001 C CNN
+F 3 "https://hu.farnell.com/vishay/crcw06039k10fkea/res-9k1-1-0-1w-0603-thick-film/dp/1469842?st=resistor%200603%201%20kohm" H 2150 3100 50  0001 C CNN
 	1    2150 3100
 	0    -1   -1   0   
 $EndComp
@@ -777,8 +777,8 @@ U 1 1 5FC465F7
 P 2150 2900
 F 0 "R2" V 1943 2900 50  0000 C CNN
 F 1 "3k" V 2034 2900 50  0000 C CNN
-F 2 "" V 2080 2900 50  0001 C CNN
-F 3 "~" H 2150 2900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2080 2900 50  0001 C CNN
+F 3 "https://hu.farnell.com/vishay/crcw06033k00fkea/res-3k-1-0-1w-0603-thick-film/dp/1469790?st=resistor%200603%203%20kohm" H 2150 2900 50  0001 C CNN
 	1    2150 2900
 	0    1    1    0   
 $EndComp
