@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lokodonc_logo)(type Legacy)(uri ${KIPRJMOD}/Pneulogo/lokodonc_logo.lib)(options "")(descr ""))
+)

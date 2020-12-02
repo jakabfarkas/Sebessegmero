@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/Footprints)(options "")(descr ""))
+  (lib (name lokodonc_logo_footprint)(type KiCad)(uri ${KIPRJMOD}/Pneulogo/lokodonc_logo_footprint.pretty)(options "")(descr ""))
+  (lib (name Pneulogo)(type KiCad)(uri ${KIPRJMOD}/Pneulogo)(options "")(descr ""))
+)
