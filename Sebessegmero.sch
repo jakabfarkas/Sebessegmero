@@ -460,7 +460,7 @@ U 1 1 5FC6FAAA
 P 2900 5150
 F 0 "A1" H 2900 4061 50  0000 C CNN
 F 1 "Arduino_Nano_Every" H 2900 3970 50  0000 C CNN
-F 2 "Footprints:MODULE_A000005" H 2900 5150 50  0001 C CIN
+F 2 "Module:Arduino_Nano" H 2900 5150 50  0001 C CIN
 F 3 "https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf" H 2900 5150 50  0001 C CNN
 	1    2900 5150
 	1    0    0    -1  
@@ -486,7 +486,7 @@ U 1 1 5FC905B3
 P 7250 900
 F 0 "J3" V 7214 712 50  0000 R CNN
 F 1 "Screw_Terminal_01x02" V 7123 712 50  0000 R CNN
-F 2 "Footprints:TE_282837-2" H 7250 900 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 7250 900 50  0001 C CNN
 F 3 "https://hu.farnell.com/buchanan-te-connectivity/282837-2/terminal-block-pcb-2-position/dp/1784860?st=282837-2" H 7250 900 50  0001 C CNN
 	1    7250 900 
 	0    -1   -1   0   
@@ -595,7 +595,7 @@ U 1 1 5FBBD59F
 P 9300 2150
 F 0 "J4" H 9350 2467 50  0000 C CNN
 F 1 "Conn_02x04_Odd_Even" H 9350 2376 50  0000 C CNN
-F 2 "Footprints:87758-0816" H 9300 2150 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 9300 2150 50  0001 C CNN
 F 3 "https://hu.farnell.com/molex/87758-0816/connector-header-8pos-2row-2mm/dp/7472331" H 9300 2150 50  0001 C CNN
 	1    9300 2150
 	1    0    0    -1  
@@ -622,7 +622,7 @@ U 1 1 5FBD02E4
 P 10050 2150
 F 0 "J2" H 9942 1825 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 9942 1916 50  0000 C CNN
-F 2 "Footprints:JST_B2B-XH-A(LF)(SN)" H 10050 2150 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 10050 2150 50  0001 C CNN
 F 3 "https://www.digikey.hu/product-detail/en/jst-sales-america-inc/B2B-XH-A-LF-SN/455-2247-ND/1651045" H 10050 2150 50  0001 C CNN
 	1    10050 2150
 	1    0    0    -1  
@@ -642,7 +642,7 @@ U 1 1 5FBAA16D
 P 3900 5650
 F 0 "J5" H 3928 5676 50  0000 L CNN
 F 1 "Conn_01x03_Female" H 3928 5585 50  0000 L CNN
-F 2 "Footprints:JST_B3B-XH-A(LF)(SN)" H 3900 5650 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 3900 5650 50  0001 C CNN
 F 3 "https://www.digikey.hu/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046" H 3900 5650 50  0001 C CNN
 	1    3900 5650
 	1    0    0    -1  
@@ -686,7 +686,7 @@ U 1 1 5FB563A2
 P 850 3000
 F 0 "J1" H 742 2675 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 742 2766 50  0000 C CNN
-F 2 "Footprints:JST_B2B-XH-A(LF)(SN)" H 850 3000 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 850 3000 50  0001 C CNN
 F 3 "https://www.digikey.hu/product-detail/en/jst-sales-america-inc/B2B-XH-A-LF-SN/455-2247-ND/1651045" H 850 3000 50  0001 C CNN
 	1    850  3000
 	-1   0    0    1   
@@ -795,4 +795,28 @@ Wire Wire Line
 Connection ~ 1750 2850
 Wire Wire Line
 	1200 3150 1750 3150
+NoConn ~ 3400 4950
+NoConn ~ 3400 4650
+NoConn ~ 3400 4550
+NoConn ~ 3100 4150
+NoConn ~ 3000 4150
+NoConn ~ 2400 4350
+NoConn ~ 2400 4450
+NoConn ~ 2400 4650
+NoConn ~ 2400 4750
+NoConn ~ 2400 4850
+NoConn ~ 2400 4950
+NoConn ~ 2400 5050
+NoConn ~ 2400 5150
+NoConn ~ 2400 5250
+NoConn ~ 2400 5350
+NoConn ~ 2400 5450
+NoConn ~ 2400 5650
+NoConn ~ 2400 5750
+NoConn ~ 2400 5850
+NoConn ~ 3400 5850
+NoConn ~ 3400 5750
+NoConn ~ 3400 5450
+NoConn ~ 3400 5350
+NoConn ~ 3400 5250
 $EndSCHEMATC
