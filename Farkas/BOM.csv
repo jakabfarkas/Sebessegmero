@@ -1,0 +1,20 @@
+Description,Value,Quantity,References,Link
+Arduino Nano,,1,A1,https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf
+Quad operational amplifier,,1,U1,https://hu.farnell.com/on-semiconductor/mc33204dr2g/op-amp-2-2mhz-1v-us-0-012v-soic/dp/2531586
+"JST connector, 01x02",,2,"J1, J2",https://www.digikey.hu/product-detail/en/jst-sales-america-inc/B2B-XH-A-LF-SN/455-2247-ND/1651045
+"Screw terminal, 01x02",,1,J3,https://hu.farnell.com/buchanan-te-connectivity/282837-2/terminal-block-pcb-2-position/dp/1784860?st=282837-2
+"Pin Header, 02x04",,1,J4,https://hu.farnell.com/molex/87758-0816/connector-header-8pos-2row-2mm/dp/7472331
+"JST connector, 01x03",,1,J5,https://www.digikey.hu/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046
+Unpolarized capacitor,10uF,1,C1,https://hu.farnell.com/avx/1206yc106kat2a/cap-10-f-16v-10-x7r-1206/dp/1657943?st=capacitor%201206%2010
+Resistor,10k,5,"R1, R7, R8, R9, R20",https://hu.farnell.com/yageo/ac0603fr-0710kl/res-10k-1-0-1w-0603-thick-film/dp/3495224?st=resistor%200603
+Resistor,3k,2,"R2, R3",https://hu.farnell.com/vishay/crcw06033k00fkea/res-3k-1-0-1w-0603-thick-film/dp/1469790?st=resistor%200603%203%20kohm
+Resistor,"9,1k",1,R4,https://hu.farnell.com/vishay/crcw06039k10fkea/res-9k1-1-0-1w-0603-thick-film/dp/1469842?st=resistor%200603%201%20kohm
+Resistor,130,1,R5,https://hu.farnell.com/multicomp/mcwr06x1300ftl/res-130r-1-0-1w-thick-film/dp/2447248?st=resistor%200603%20130%20ohm
+Resistor,24k,3,"R6, R14, R15",https://hu.farnell.com/multicomp/mcwr06x2402ftl/res-24k-1-0-1w-thick-film/dp/2447308?st=resistor%200603%2024%20kohm
+Resistor,2k,1,R10,https://hu.farnell.com/vishay/crcw06032k00fkea/res-2k-1-0-1w-0603-thick-film/dp/1469764?st=resistor%200603%202%20kohm
+Resistor,1k,1,R11,https://hu.farnell.com/yageo/ac0603fr-071kl/res-1k-1-0-1w-0603-thick-film/dp/3495238?st=resistor%200603
+Resistor,"2,4k",2,"R12, R16",https://hu.farnell.com/multicomp/mcwr06x2401ftl/res-2k4-1-0-1w-thick-film/dp/2447322?st=resistor%200603%202.4%20kohm
+Resistor,100,2,"R13, R17",https://hu.farnell.com/yageo/ac0603fr-07100rl/res-100r-1-0-1w-0603-thick-film/dp/3495223?st=resistor%200603
+Resistor,100k,1,R18,https://hu.farnell.com/vishay/crcw0603100kfkea/res-100k-1-0-1w-0603-thick-film/dp/1469649RL?st=resistor%200603%20100%20kohm
+Resistor,15k,2,"R19, R21",https://hu.farnell.com/vishay/crcw060315k0fkea/res-15k-1-0-1w-0603-thick-film/dp/1469758?st=resistor%200603%2015%20kohm
+Resistor,47,1,R22,https://hu.farnell.com/vishay/crcw060347r0fkeahp/res-47r-1-0-33w-0603-thick-film/dp/1738887?st=resistor%200603%2047%20ohm
